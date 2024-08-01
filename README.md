@@ -19,11 +19,10 @@ You can view my resume here: &nbsp;
 </a>
 
 ## Connect with Me
-Feel free to reach out via:
 <p align="left">
-  <a href="https://www.linkedin.com/in/aditya-singh-rathi" target="blank"><img align="center" src="https://github.com/im-aditya-rathi/im-aditya-rathi/blob/main/resources/linkedin-svgrepo-com.svg" alt="https://www.linkedin.com/in/aditya-singh-rathi/" height="38" width="50" /></a>
   <a href="mailto:adityasinghrathi315@gmail.com" target="blank"><img align="center" src="https://github.com/im-aditya-rathi/im-aditya-rathi/blob/main/resources/gmail-svgrepo-com.svg" alt="https://www.linkedin.com/in/aditya-singh-rathi/" height="38" width="50" /></a> 
-  <a href="https://www.youtube.com/channel/ucymiupc7dbeaibozj5-zh1q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucymiupc7dbeaibozj5-zh1q" height="35" width="45" /></a> &nbsp;
+  <a href="https://www.linkedin.com/in/aditya-singh-rathi" target="blank"><img align="center" src="https://github.com/im-aditya-rathi/im-aditya-rathi/blob/main/resources/linkedin-svgrepo-com.svg" alt="https://www.linkedin.com/in/aditya-singh-rathi/" height="38" width="50" /></a>
+  <a href="https://www.youtube.com/channel/ucymiupc7dbeaibozj5-zh1q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucymiupc7dbeaibozj5-zh1q" height="35" width="45" /></a> &nbsp; &nbsp;
   <a href="https://codeforces.com/profile/im_aditya_rathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/im_aditya_rathi" height="35" width="45" /></a> &nbsp;
   <a href="https://www.codechef.com/users/i_aditya_rathi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/i_aditya_rathi" height="35" width="45" /></a>
   <a href="https://leetcode.com/u/im_aditya_rathi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/im_aditya_rathi/" height="35" width="45" /></a>
