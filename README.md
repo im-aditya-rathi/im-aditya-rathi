@@ -5,6 +5,7 @@ I'm **Aditya Singh Rathi**, a passionate Software Engineer with 2+ years of expe
 ## Skills
 - **Languages:** Java, Java Persistence API (JPA), Java Servlets, C++, JavaScript, CSS, HTML
 - **Frameworks and Tools:** Spring, Spring Boot, Hibernate, JDBC, Bootstrap
+- **Databases:** MYSQL
 
 ## Projects
 - **Todo Manager:** Multi-method data storage and robust task management.
